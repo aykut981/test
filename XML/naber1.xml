@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-
-<publicTransport>
+<transportKrakow>
     <line>
-     <id>1</id>
-     <type>tram</type>
-     <wait>7</wait>
-     <operator>MPK Krakow</operator>
+        <id>1</id>
+        <name>Bus 102</name>
+        <wait>5</wait>
+        <central>MPK Krakow</central>
     </line>
 
         <line>
-     <id>2</id>
-     <type>tram</type>
-     <wait>12</wait>
-     <operator>MPK Krakow</operator>
+        <id>2</id>
+        <name>Bus 105</name>
+        <wait>10</wait>
+        <central>MPK Krakow</central>
     </line>
 
             <line>
-     <id>3</id>
-     <type>tram</type>
-     <wait>5</wait>
-     <operator>MPK Krakow</operator>
+        <id>3</id>
+        <type>Bus 108</type>
+        <wait>15</wait>
+        <central>MPK Krakow</central>
     </line>
-
+    
                 <line>
-     <id>9</id>
-     <type>tram</type>
-     <wait>5</wait>
-     <operator>Krakow Bus Del</operator>
+        <id>4</id>
+        <name>Bus 115</name>
+        <wait>20</wait>
+        <central>MPK Krakow</central>
     </line>
-</publicTransport>
+</transportKrakow>
