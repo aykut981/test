@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transportkrakow>
+    <line>
+        <id a="x" b="1" >2</id>
+        <type a="w" b="2" >bus</type>
+        <wait a="g" b="3" >5</wait>
+        <central a="j" b="4" >MPK Krakow</central>
+    </line>
+
+        <line>
+        <id a="x" b="1" >2</id>
+        <type a="w" b="2" >bus</type>
+        <wait a="g" b="3" >5</wait>
+        <central a="j" b="4" >MPK Krakow</central>
+    </line>
+
+        <line>
+        <id a="x" b="1" >2</id>
+        <type a="w" b="2" >bus</type>
+        <wait a="g" b="3" >5</wait>
+        <central a="j" b="4" >MPK Krakow</central>
+    </line>
+
+        <line>
+        <id a="x" b="1" >2</id>
+        <type a="w" b="2" >bus</type>
+        <wait a="g" b="3" >5</wait>
+        <central a="j" b="4" >MPK Krakow</central>
+    </line>
+</transportkrakow>
