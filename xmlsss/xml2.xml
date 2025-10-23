@@ -10,7 +10,7 @@
     </line>
 
     <line>
-        <id a="1" b="10">1</id>
+        <id a="2" b="10">1</id>
         <type a="2" b="20">tram</type>
         <wait a="3" b="30">5</wait>
         <stops a="4" b="40">15</stops>
