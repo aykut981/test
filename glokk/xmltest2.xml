@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<publicTransport>
+    <line>
+        <id a="number" b="solid">1</id>
+        <type a="car" b="numb">Bus</type>
+        <wait a="time" b="minute">5</wait>
+        <stop a="location" b="numberr">10</stop>
+    </line>
+
+        <line>
+        <id a="number" b="solid">1</id>
+        <type a="car" b="numb">Bus</type>
+        <wait a="time" b="minute">5</wait>
+        <stop a="location" b="numberr">10</stop>
+    </line>
+
+        <line>
+        <id a="number" b="solid">1</id>
+        <type a="car" b="numb">Bus</type>
+        <wait a="time" b="minute">5</wait>
+        <stop a="location" b="numberr">10</stop>
+    </line>
+
+        <line>
+        <id a="number" b="solid">1</id>
+        <type a="car" b="numb">Bus</type>
+        <wait a="time" b="minute">5</wait>
+        <stop a="location" b="numberr">10</stop>
+    </line>
+
+        <line>
+        <id a="number" b="solid">1</id>
+        <type a="car" b="numb">Bus</type>
+        <wait a="time" b="minute">5</wait>
+        <stop a="location" b="numberr">10</stop>
+    </line>
+        <line>
+        <id a="number" b="solid">1</id>
+        <type a="car" b="numb">Bus</type>
+        <wait a="time" b="minute">5</wait>
+        <stop a="location" b="numberr">10</stop>
+    </line>
+</publicTransport>

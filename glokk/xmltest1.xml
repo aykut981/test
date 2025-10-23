@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<publicTransport>
+    <line>
+        <id>1</id>
+        <type>Bus</type>
+        <wait>5</wait>
+        <stop>10</stop>
+    </line>
+
+        <line>
+        <id>1</id>
+        <type>Bus</type>
+        <wait>5</wait>
+        <stop>10</stop>
+    </line>
+
+        <line>
+        <id>1</id>
+        <type>Bus</type>
+        <wait>5</wait>
+        <stop>10</stop>
+    </line>
+
+        <line>
+        <id>1</id>
+        <type>Bus</type>
+        <wait>5</wait>
+        <stop>10</stop>
+    </line>
+
+        <line>
+        <id>1</id>
+        <type>Bus</type>
+        <wait>5</wait>
+        <stop>10</stop>
+    </line>
+        <line>
+        <id>1</id>
+        <type>Bus</type>
+        <wait>5</wait>
+        <stop>10</stop>
+    </line>
+</publicTransport>
